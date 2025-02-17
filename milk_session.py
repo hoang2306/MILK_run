@@ -11,7 +11,7 @@ import numpy as np
 import criterion
 import tool
 import mm_loader
-from metric import evaluation
+import evaluation
 
 
 class MILK_session(object):
